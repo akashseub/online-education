@@ -12,7 +12,7 @@ const Navbar = () => {
 
 
     return (
-        <div>
+        <div className="py-8">
             <div className="navbar text-white">
                 <div className="navbar-start">
                     <div className="dropdown">

@@ -6,7 +6,7 @@ function App() {
 
   return (
     <>
-      <div className='px-24'>
+      <div className='md:max-w-screen-xl mx-auto'>
         <Header></Header>
       </div>
     </>
