@@ -2,7 +2,7 @@
 
 const Banner = () => {
     return (
-        <div className="text-white space-y-8 bg-[url('https://i.ibb.co/Vpq2zHs/online-education-background-drop.png')]">
+        <div className="text-white space-y-8 bg-[url('https://i.ibb.co/Vpq2zHs/online-education-background-drop.png')] bg-no-repeat bg-center bg-contain">
             <div className="grid grid-cols-3 text-white">
                 <div className="col-span-2 space-y-12">
                     <h1 className="text-6xl font-bold"><span className="text-[#ba9eff]">Best courses </span>are <br /> waiting to enrich <br /> your skill</h1>
